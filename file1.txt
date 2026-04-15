@@ -1,0 +1,4 @@
+This is the fisrt file of the application, which consists what all should be included in the categories
+
+-Fashion 
+-Electronics
